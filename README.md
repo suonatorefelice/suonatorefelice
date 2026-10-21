@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/suonatorefelice">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=620&lines=%24+whoami;Pasquale+Tucci;break+it+%E2%86%92+understand+it+%E2%86%92+secure+it;0+CVE+HIGH+%C2%B7+0+secrets+%C2%B7+all+checks+green+%E2%9C%93" alt="typing header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=620&lines=%24+whoami;Pasquale+Tucci;break+it+%E2%86%92+understand+it+%E2%86%92+secure+it" alt="typing header" />
 </a>
 
 </div>
