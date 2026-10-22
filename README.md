@@ -1,19 +1,6 @@
-<div align="center">
-
-<a href="https://github.com/suonatorefelice">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=620&lines=%24+whoami;Pasquale+Tucci;break+it+%E2%86%92+understand+it+%E2%86%92+secure+it" alt="typing header" />
-</a>
-
-</div>
-
-```console
-$ pasquale --scan
-
-[+] target ............ cloud & web app security
-[+] approach .......... prima la rompo, poi la metto in sicurezza
-[+] side quest ........ tool per macOS e mini progetti personali
-[✓] status ............ always shipping
-```
+<p align="center">
+  <img src="./terminal.svg" width="100%" alt="$ whoami → Pasquale Tucci · cloud & web app security" />
+</p>
 
 ### Lab
 
@@ -25,8 +12,18 @@ $ pasquale --scan
 
 ### Toolkit
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
+  <img src="https://img.shields.io/badge/OWASP-0d1117?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+</p>
+
+<details>
+<summary><img src="./crescent.svg" width="14" alt="" title="psst…" /></summary>
+<br />
+<p align="center">
+  <img src="./moon.svg" width="100%" alt="$ moon --prism-power" />
+</p>
+</details>
