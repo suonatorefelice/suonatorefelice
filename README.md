@@ -4,11 +4,11 @@
 
 ### Lab
 
-| Progetto | In una riga |
+| Project | In one line |
 |---|---|
-| [**GLTSegnaletica**](https://github.com/suonatorefelice/GLTSegnaletica) | Web app nata vulnerabile apposta, poi blindata: 20 falle chiuse, 9 security gate a ogni push |
-| [**gestione-monitor**](https://github.com/suonatorefelice/gestione-monitor) | Controlla il monitor esterno dalla barra dei menu del Mac: protocollo DDC/CI rifatto in Swift |
-| [**recon-stack**](https://github.com/suonatorefelice/recon-stack) | Plugin DevStack per OpenStack: scopre da solo i servizi attivi nel cloud, senza installare agenti |
+| [**GLTSegnaletica**](https://github.com/suonatorefelice/GLTSegnaletica) | A web app built vulnerable on purpose, then hardened: 20 flaws fixed, 9 security gates on every push |
+| [**gestione-monitor**](https://github.com/suonatorefelice/gestione-monitor) | Control your external monitor from the Mac menu bar: the DDC/CI protocol rebuilt in Swift |
+| [**recon-stack**](https://github.com/suonatorefelice/recon-stack) | A DevStack plugin for OpenStack that discovers the services running in the cloud on its own, no agents needed |
 
 ### Toolkit
 
